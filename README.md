@@ -22,8 +22,8 @@ Contents:
 ## Mindmaps
 
 ### Machine Learning
-[Machine Learning](Machine Learning.pdf)
+1. [Machine Learning](Machine Learning.pdf)
 
 ### Deep Learning
-[Deep Learning](Deep Learning.pdf)
+1. [Deep Learning](Deep Learning.pdf)
 
