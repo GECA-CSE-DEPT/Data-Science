@@ -6,7 +6,7 @@ Contents:
 
 ### 1. Python
 ![](cheatsheet-python-1.png)
-1[](cheatsheet-python-2.png)
+![](cheatsheet-python-2.png)
 
 ### 2. Numpy
 ![](cheatsheet-numpy-1.png)
