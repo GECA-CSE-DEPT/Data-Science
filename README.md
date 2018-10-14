@@ -2,4 +2,4 @@
 
 Contents:
 
-1. ![Numpy](cheatsheet-numpy.pdf)
+1.
