@@ -22,8 +22,8 @@ Contents:
 ## Mindmaps
 
 ### Machine Learning
-1. [Machine Learning](Machine Learning.pdf)
+1. [Machine Learning](https://github.com/GECA-CSE-DEPT/Data-Science/blob/master/Machine%20Learning.pdf)
 
 ### Deep Learning
-1. [Deep Learning](Deep Learning.pdf)
+1. [Deep Learning](https://github.com/GECA-CSE-DEPT/Data-Science/blob/master/Deep%20Learning.pdf)
 
