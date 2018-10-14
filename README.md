@@ -22,14 +22,8 @@ Contents:
 ## Mindmaps
 
 ### Machine Learning
-![](Machine Learning-1.png)
-![](Machine Learning-2.png)
-![](Machine Learning-3.png)
-![](Machine Learning-4.png)
-![](Machine Learning-5.png)
+[Machine Learning](Machine Learning.pdf)
 
 ### Deep Learning
-![](Deep Learning-1.png)
-![](Deep Learning-2.png)
-![](Deep Learning-3.png)
+[Deep Learning](Deep Learning.pdf)
 
