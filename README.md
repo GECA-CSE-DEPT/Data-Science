@@ -2,4 +2,4 @@
 
 Contents:
 
-1.
+![](cheatsheet-numpy-1.png)
