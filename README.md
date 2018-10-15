@@ -26,5 +26,4 @@ Contents:
 
 ## Useful Links
 
-1. [Huge collection of Datasets](https://www.kaggle.com/
-
+1. [Huge collection of Datasets](https://www.kaggle.com/)
