@@ -24,3 +24,7 @@ Contents:
 1. [Machine Learning](https://github.com/GECA-CSE-DEPT/Data-Science/blob/master/Machine%20Learning.pdf)
 2. [Deep Learning](https://github.com/GECA-CSE-DEPT/Data-Science/blob/master/Deep%20Learning.pdf)
 
+## Useful Links
+
+1. [Huge collection of Datasets](https://www.kaggle.com/
+
